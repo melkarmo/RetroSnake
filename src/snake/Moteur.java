@@ -23,9 +23,6 @@ public class Moteur {
 	private int nbJoueurs;
 	private int score1;
 	private int score2;
-	// private boolean retourMenu;
-	// private boolean rejouer;
-	// private boolean continuer;
 	private Transition transition;
 	private Coordonnees coordsMenu = new Coordonnees(0, 1);
 
